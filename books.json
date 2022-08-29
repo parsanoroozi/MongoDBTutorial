@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "62f20701c245d1a129c7aded"
+  },
+  "title": "The Way of Kings",
+  "author": "Brandon Sanderson",
+  "rating": 9,
+  "pages": 400,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "body": "Great book!"
+    },
+    {
+      "name": "mario",
+      "body": "so so"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f209206353c5347ce5f0fb"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "rating": 7,
+  "pages": 250,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "luigi",
+      "body": "it was pretty good!"
+    },
+    {
+      "name": "bowser",
+      "body": "loved it!"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f2098e6353c5347ce5f0fd"
+  },
+  "title": "The Name of The Wind",
+  "author": "Patrick RothFuss",
+  "rating": 10,
+  "pages": 500,
+  "genres": [
+    "fantasy",
+    "Horror"
+  ],
+  "reviews": [
+    {
+      "name": "peach",
+      "body": "one of my favs"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f209f46353c5347ce5f0ff"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "rating": 8,
+  "pages": 350,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "luigi",
+      "body": "Changed my life!"
+    },
+    {
+      "name": "mikel",
+      "body": "not bad!"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "62f20a5f6353c5347ce5f101"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "rating": 7,
+  "pages": 300,
+  "genres": [
+    "fantasy",
+    "dystopian",
+    "sci-fi"
+  ],
+  "reviews": [
+    {
+      "name": "Koosha",
+      "body": "needed for everyone"
+    },
+    {
+      "name": "matilda",
+      "body": "master piece"
+    }
+  ]
+}]
